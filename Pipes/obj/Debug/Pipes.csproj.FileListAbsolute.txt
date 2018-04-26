@@ -1,0 +1,9 @@
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\bin\Debug\Pipes.exe.config
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\bin\Debug\Pipes.exe
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\bin\Debug\Pipes.pdb
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\bin\Debug\nunit.framework.dll
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\obj\Debug\Pipes.csprojResolveAssemblyReference.cache
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\obj\Debug\Pipes.Properties.Resources.resources
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\obj\Debug\Pipes.csproj.GenerateResource.Cache
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\obj\Debug\Pipes.exe
+c:\users\bars\documents\visual studio 2015\Projects\Pipes\Pipes\obj\Debug\Pipes.pdb
